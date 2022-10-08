@@ -1,9 +1,8 @@
 # Machine-Learning-Projects-1-2
 
-These are Coursera Projects for the first 2 parts from IBM Machine Learning Course series -
-
-    Exploratory Data Analysis for Machine Learning
-    Supervised Machine Learning : Regression
+This project covers -
+Exploratory Data Analysis for Machine Learning
+Supervised Machine Learning : Regression
 
 House Price Prediction with Regression
 
